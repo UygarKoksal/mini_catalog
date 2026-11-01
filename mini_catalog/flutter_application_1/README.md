@@ -18,6 +18,8 @@ Bu proje, Flutter kullanılarak geliştirilmiş temel seviye bir mobil e-ticaret
 ![Ana Sayfa](screenshots/home.png)
 ![Detay Ekranı](screenshots/detail.png)
 ![Sepet Ekranı](screenshots/cart.png)
+![Boş Sepet](screenshots/empty_cart.png)
+
 
 # Mini Catalog App
 
@@ -39,3 +41,4 @@ This project is a fundamental-level mobile e-commerce catalog application develo
 ![Home Screen](screenshots/home.png)
 ![Detail Screen](screenshots/detail.png)
 ![Cart Screen](screenshots/cart.png)
+![Emoty Cart](screenshots/empty_cart.png)
