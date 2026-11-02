@@ -14,11 +14,11 @@ Bu proje, Flutter kullanılarak geliştirilmiş temel seviye bir mobil e-ticaret
 3. Gerekli paketleri indirin: `flutter pub get`
 4. Uygulamayı çalıştırın: `flutter run`
 
-## Ekran Görüntüleri
-![Ana Sayfa](screenshots/home.png)
-![Detay Ekranı](screenshots/detail.png)
-![Sepet Ekranı](screenshots/cart.png)
-![Boş Sepet](screenshots/empty_cart.png)
+## 📂 Proje Dosyaları ve Ekran Görüntüleri
+
+Flutter projesinin tüm kaynak kodları, detaylı kurulum yönergesi (README) ve **test ekran görüntüleri (screenshots)** içerideki alt klasörde muhafaza edilmektedir.
+
+👉 Proje dosyalarını ve arayüz çıktılarını incelemek için lütfen (https://github.com/UygarKoksal/mini_catalog/blob/main/mini_catalog/flutter_application_1/README.md) dizinine geçiş yapın.
 
 
 # Mini Catalog App
@@ -37,8 +37,8 @@ This project is a fundamental-level mobile e-commerce catalog application develo
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
-## Screenshots
-![Home Screen](screenshots/home.png)
-![Detail Screen](screenshots/detail.png)
-![Cart Screen](screenshots/cart.png)
-![Emoty Cart](screenshots/empty_cart.png)
+📂 Project Files and Screenshots
+
+All source code for the Flutter project, the detailed installation guide (README), and the test screenshots are located in the subfolder.
+
+👉 To review the project files and interface outputs, please navigate to the directory by clicking here: (https://github.com/UygarKoksal/mini_catalog/blob/main/mini_catalog/flutter_application_1/README.md)
